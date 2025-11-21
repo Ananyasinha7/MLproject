@@ -19,4 +19,5 @@ setup(
     author='Ananya',
     author_email='anany08a@gmail.com',
     packages=find_packages(),
+    python_requires='>=3.11',
     install_requires=get_requirements('requirements.txt') )

@@ -2,7 +2,7 @@ pandas
 numpy
 seaborn
 matplotlib
-catboost==1.2
+catboost>=1.2
 xgboost
 scikit-learn
 # -e .
