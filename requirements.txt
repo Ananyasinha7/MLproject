@@ -7,3 +7,4 @@ xgboost
 scikit-learn
 # -e .
 dill
+flask
